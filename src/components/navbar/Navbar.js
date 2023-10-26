@@ -1,16 +1,25 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-import { FiMic, FiSettings } from 'react-icons/fi';
+import { useLocation } from 'react-router-dom';
+import { FiMic, FiSettings, FiArrowLeft } from 'react-icons/fi';
 import s from './style.module.css';
 
-const Navbar = () => (
-  <nav className={s.navbar}>
-    <NavLink to="/" exact="true" activeclassName="active">Home</NavLink>
-    {' '}
-    <NavLink to="/details/1" activeclassName="active">Details</NavLink>
-    <FiMic />
-    <FiSettings />
-  </nav>
-);
+const Navbar = () => {
+  const location = useLocation();
+  const goBack = () => {
+    window.history.back();
+  };
+
+  return (
+    <nav className={s.navbar}>
+      {location.pathname !== '/' && (
+        <button className={s.back_icon_button} type="button" onClick={goBack}>
+          <FiArrowLeft />
+        </button>
+      )}
+      <FiMic className={s.mic_icon} />
+      <FiSettings className={s.settings_icon} />
+    </nav>
+  );
+};
 
 export default Navbar;
