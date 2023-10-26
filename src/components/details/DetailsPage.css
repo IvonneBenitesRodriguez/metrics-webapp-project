@@ -1,31 +1,31 @@
 .details-container {
-    padding: 2em;
+  padding: 2em;
 }
 
 .details-header {
-    display: flex;
-    align-items: center;
-    gap: 2em;
+  display: flex;
+  align-items: center;
+  gap: 2em;
 }
 
 .country-flag {
-    width: 100px;
-    height: auto;
+  width: 100px;
+  height: auto;
 }
 
 .details-main {
-    display: flex;
-    justify-content: space-around;
-    align-items: start;
-    margin-top: 2em;
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+  margin-top: 2em;
 }
 
 .details-info {
-    width: 45%;
+  width: 45%;
 }
 
 .details-map {
-    width: 45%;
-    height: 400px;
-    background: #e0e0e0;
+  width: 45%;
+  height: 400px;
+  background: #e0e0e0;
 }
