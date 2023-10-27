@@ -147,6 +147,7 @@ bash
 
 - [ ] *New content*
 - [ ] *Testimonial section*
+- [ ] *likes icon to check which continent is most visited*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
