@@ -96,7 +96,7 @@ bash
 Install this project's dependencies with:
 
 
-cd .\metrics-webapp-project.git
+cd .\metrics-webapp-project.git <br/>
 npm install
 
 
