@@ -1,12 +1,114 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TABLE OF CONTENTS -->
 
-## Available Scripts
+# 📗 Table of Contents
 
-In the project directory, you can run:
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 metrics-webapp-project](#-metrics-webapp-project)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+- [💻 Getting Started ](#-getting-started-)
+- [📖 Install](#-install)
+- [📖 Usage](#-usage)
+- [Run tests](#run-tests)
+    - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-### `npm start`
+<!-- PROJECT DESCRIPTION -->
+<br>
+
+# 📖 metrics-webapp-project
+ <a name="metrics-webapp-project"></a>
+🌸 Thank you for visiting our metrics-webapp-project.
+This project is a mobile web app built using React, and Redux. 
+This mobile web application allows users to get information about 
+demographic data for all continents. Its filter functionality allows to select countries by continent and get important information about population number, languages spoken, area, and capital of each country.
+It is a very useful information for educative, travel, and investment purposes. We used an API named restcountries.
+<br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Repository Hosting Service</summary>
+  <ul>
+    <li><a href="https://github.com/">GitHub</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Stacks</summary>
+  <ul>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://legacy.reactjs.org/docs/components-and-props.html">React Components and Props</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://reactrouter.com/en/main">react-router-dom</a></li>
+    <li><a href="https://github.com/microverseinc/linters-config/tree/master/react-redux">Linters</a></li>
+    <li><a href="https://axios-http.com/">axios</a></li>
+    <li><a href="https://jestjs.io/">Jest</a></li>
+    <li><a href="https://render.com/">Render</a></li>
+ </ul>
+</details>
+
+<!-- Features -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="key-features"></a>
+
+- *Visibility of all the continents:* Users will be able to see all the continents and its population number in the main page.
+- *Select a continent:* Users will see continent by continent and they can select a continent doing click.
+- *Appreciate the information by continent:* Users have a page where they can appreciate all the countries which belong to a continent.
+Each country has its own flag and population number.
+- *Filter functionality:* Users can use the navbar placed and write their selected country to get information about it.
+- *Get information about the country:* The page displays relevant information about the country, population, capital,region,area, currency and languages spoken. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> You can see a Demo [here](https://metrics-webapp-project-microverse.onrender.com/countries/asia).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 💻 Getting Started <a name="getting-started"></a>
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+bash
+  git clone https://github.com/IvonneBenitesRodriguez/metrics-webapp-project.git
+
+<br>
+
+# 📖 Install
+
+Install this project's dependencies with:
+
+
+cd .\metrics-webapp-project.git
+npm install
+
+
+<br>
+
+# 📖 Usage
+
+To run the project, execute the following command:
+
+bash
+ npm start 
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,57 +116,74 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Run tests
 
-### `npm run build`
+bash
+  npm run test
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run eject`
+<!-- AUTHORS -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 👥 Author <a name="authors"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👤 *Ivonne Benites*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- GitHub: [Ivonne Benites](https://github.com/IvonneBenitesRodriguez)
+- X: [Ivonne Benites](https://twitter.com/IvonneBenitesR)
+- LinkedIn: [Ivonne Benites](https://www.linkedin.com/in/ivonnebenites/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+<!-- FUTURE FEATURES -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔭 Future Features <a name="future-features"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ] *New content*
+- [ ] *Testimonial section*
 
-### Code Splitting
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- CONTRIBUTING -->
 
-### Analyzing the Bundle Size
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- SUPPORT -->
 
-### Advanced Configuration
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you like this project gift us with a star, follow on [GitHub](https://github.com/IvonneBenitesRodriguez/) and a nice comment!
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- ACKNOWLEDGEMENTS -->
 
-### `npm run build` fails to minify
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the resources and the platform for us to be a Professional full-stack developer.
+As well as mention and thank Creative Commons for providing the design for this work.
+> - You can click on the link to see the original design :
+> - [original design on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+> - Nelson Sakwa is the creator for this beautiful design.
+> - You can click on the link to see the Nelson Sakwa profile on Behance. 
+> - [Nelson Sakwa profile on Behance](https://www.behance.net/sakwadesignstudio)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
