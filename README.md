@@ -65,12 +65,12 @@ It is a very useful information for educative, travel, and investment purposes. 
 
 ### Key Features <a name="key-features"></a>
 
-- 📍*Visibility of all the continents:* Users will be able to see all the continents and its population number in the main page.
-- 📍*Select a continent:* Users will see continent by continent and they can select a continent doing click.
-- 📍*Appreciate the information by continent:* Users have a page where they can appreciate all the countries which belong to a continent.
+- 📍*Visibility of all the continents*: Users will be able to see all the continents and its population number in the main page.
+- 📍*Select a continent*: Users will see continent by continent and they can select a continent doing click.
+- 📍*Appreciate the information by continent*: Users have a page where they can appreciate all the countries which belong to a continent.
 Each country has its own flag and population number.
-- 📍*Filter functionality:* Users can use the navbar placed and write their selected country to get information about it.
-- 📍*Get information about the country:* The page displays relevant information about the country, population, capital,region,area, currency and languages spoken. 
+- 📍*Filter functionality*: Users can use the navbar placed and write their selected country to get information about it.
+- 📍*Get information about the country*: The page displays relevant information about the country, population, capital,region,area, currency and languages spoken. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
