@@ -32,7 +32,7 @@ This mobile web application allows users to get information about
 demographic data for all continents. Its filter functionality allows to select countries by continent and get important information about population number, languages spoken, area, and capital of each country.
 It is a very useful information for educative, travel, and investment purposes. We used an API named restcountries.
 
-[Here](https://www.loom.com/share/d9afc550cbc24f8ca73a3dbd0a3daa19) is the link to my video presentation.
+[Here](https://www.loom.com/share/a4d1e4a128484e639834365a979e19ed) is the link to my video presentation.
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
