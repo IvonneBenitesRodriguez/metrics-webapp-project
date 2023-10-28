@@ -32,7 +32,7 @@ This mobile web application allows users to get information about
 demographic data for all continents. Its filter functionality allows to select countries by continent and get important information about population number, languages spoken, area, and capital of each country.
 It is a very useful information for educative, travel, and investment purposes. We used an API named restcountries.
 
-[Here](https://www.loom.com/share/d9afc550cbc24f8ca73a3dbd0a3daa19) is the link to my video presentation.
+[Here](https://www.loom.com/share/a4d1e4a128484e639834365a979e19ed) is the link to my video presentation.
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,6 +147,7 @@ bash
 
 - [ ] *New content*
 - [ ] *Testimonial section*
+- [ ] *likes icon to check which continent is most visited*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,16 +168,12 @@ If you like this project gift us with a star, follow on [GitHub](https://github.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the resources and the platform for us to be a Professional full-stack developer.
-As well as mention and thank Creative Commons for providing the design for this work.
-> - You can click on the link to see the original design :
-> - [original design on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
-> - Nelson Sakwa is the creator for this beautiful design.
-> - You can click on the link to see the Nelson Sakwa profile on Behance. 
-> - [Nelson Sakwa profile on Behance](https://www.behance.net/sakwadesignstudio)
+⭐️ I would like to thank <a href="https://www.microverse.org/">Microverse</a> for providing the resources and the platform for us to be a Professional full-stack developer.
+🌷 For building this project:
+🌸 I would like to thank *Creative Commons License* for providing the design for this work.
+🌸 I would like to thank *Nelson Sakwa* the author of the original design [original design on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
